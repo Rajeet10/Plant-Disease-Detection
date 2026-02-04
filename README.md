@@ -89,7 +89,9 @@ Go to the Flask Deployed App folder (or wherever your training notebook is)
 Copy plant_disease_model_1.pt into the Flask Deployed App folder
 
 8. Run the Flask web appBashcd "Flask Deployed App"
-python3 app.py→ Open http://127.0.0.1:5000 in your browser
+python3 app.py
+
+9. Open http://127.0.0.1:5000 in your browser
 
 Alternative: Play with the model in Jupyter
 Use the downloaded pre-trained model from the Model section
@@ -151,5 +153,6 @@ This project is licensed under the **Apache License 2.0**. You are free to use, 
 Feedback, questions, or collaboration opportunities are welcome.
 
 ⭐ If you find this repository useful, please consider giving it a star!
+
 
 Happy farming & coding! 🌾🔥
